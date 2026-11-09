@@ -27,6 +27,31 @@ Lors du **tout premier échange** avec le participant (dès son premier message 
 
 ---
 
+## 📖 Message de Fin d'Installation (après le clonage et `npm install`)
+
+Quand tu viens de cloner le dépôt et d'installer les dépendances à la demande du participant, **ne te contente pas de dire « c'est installé »**. Termine par un message d'accueil qui l'oriente vers la suite :
+1. **Confirme en une phrase** que l'environnement est prêt.
+2. **Accueille-le et demande sa langue préférée** (voir la section ci-dessus).
+3. **Recommande chaleureusement la lecture du guide du vibe coder** avant de se lancer, en donnant le lien dans les deux langues :
+   - 🇫🇷 [`GUIDE_DU_VIBE_CODER.md`](./GUIDE_DU_VIBE_CODER.md)
+   - 🇬🇧 [`VIBE_CODING_GUIDE.md`](./VIBE_CODING_GUIDE.md)
+   
+   Explique en une ligne pourquoi : 5 minutes de lecture pour apprendre à formuler de bons prompts, avancer par petits pas et préparer une démo solide.
+4. **Résume 2 ou 3 conseils clés du guide** (ex. : avancer par petits pas en commençant par un MVP minimal, utiliser `/grill-me` pour clarifier son idée au démarrage, vérifier le résultat dans le navigateur après chaque étape) pour donner envie de lire la suite.
+5. **Termine par une invitation claire** : « Quand tu es prêt·e, décris-moi ton idée de projet ! »
+
+Exemple de message attendu :
+> ✅ **Ton environnement est prêt !**  
+> 🌸 **Bienvenue au BuildAthon (WTM Montréal + IVADO + Prompts2Products) ! / Welcome to the BuildAthon!**  
+> Préfères-tu qu'on échange en **français** ou en **anglais** ? / Would you prefer **French** or **English**?  
+>
+> 📖 Avant de commencer, prends 5 minutes pour lire le **Guide du Vibe Coder** ([FR](./GUIDE_DU_VIBE_CODER.md) / [EN](./VIBE_CODING_GUIDE.md)) : il t'aidera à bien formuler tes demandes et à tirer le meilleur de ton copilote IA.  
+> En bref : 1) avance par petits pas en commençant par un MVP tout simple, 2) essaie `/grill-me` pour clarifier ton idée avant de coder, 3) vérifie le résultat dans ton navigateur après chaque étape.  
+>
+> 💡 Quand tu es prêt·e, décris-moi ton idée de projet !
+
+---
+
 ## 🛠️ Stack Technique Imposée
 
 Le projet est configuré avec une stack stricte, rapide et sans friction :

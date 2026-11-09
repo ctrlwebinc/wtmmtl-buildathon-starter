@@ -20,13 +20,14 @@ Ce gabarit de démarrage est spécialement conçu pour vous permettre de constru
 1. Ouvrez l'application **Antigravity Desktop**.
 2. Dans la barre latérale gauche, cliquez sur **Projects**, puis sélectionnez **« New Project »** (ou l'icône **`+`**) pour créer un espace de travail dédié à votre BuildAthon.
 3. Nommez votre projet ou choisissez un dossier de travail sur votre ordinateur.
-4. Dans cette session dédiée, envoyez simplement ce prompt à Antigravity :
-   > *« Clone le dépôt https://github.com/ctrlwebinc/wtmmtl-buildathon-starter ici et prépare mon environnement pour le BuildAthon. »*
+4. Assurez-vous que le mode est bien réglé sur **« Auto »** (dans le sélecteur au bas de la zone de discussion) pour qu'Antigravity orchestre le développement de manière fluide et autonome.
+5. Dans cette session dédiée, envoyez simplement ce prompt à Antigravity :
+   > *« Clone le dépôt https://github.com/ctrlwebinc/wtmmtl-buildathon-starter ici et prépare mon environnement pour le BuildAthon. Ensuite, lis GEMINI.md et suis ses consignes. »*
    
    > 🛡️ **Autorisations Antigravity** : Si l'application vous demande une confirmation pour `git clone` ou `npm install`, choisissez **« Yes, and always allow [commande] »** pour travailler sans interruption. En revanche, pour des suppressions de fichiers (comme `rm -rf`), choisissez **« Allow this time »** par mesure de prudence.
 
-5. Antigravity va automatiquement cloner le gabarit dans ce dossier dédié et installer les dépendances (`npm install`).
-6. Partagez-lui ensuite votre idée de projet, et Antigravity construira toute l'application pour vous !
+6. Antigravity va automatiquement cloner le gabarit dans ce dossier dédié et installer les dépendances (`npm install`).
+7. Partagez-lui ensuite votre idée de projet, et Antigravity construira toute l'application pour vous !
 
 *(Note : Si vous aviez déjà cloné le dépôt auparavant, il vous suffit de cliquer sur **Projects** et d'ouvrir le dossier existant).*
 

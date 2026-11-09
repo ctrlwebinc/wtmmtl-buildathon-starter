@@ -20,13 +20,14 @@ This starter kit is specifically designed to let you build your solution even if
 1. Open the **Antigravity Desktop** application.
 2. In the left-hand sidebar, click **Projects**, then select **“New Project”** (or the **`+`** icon) to create a dedicated workspace for your BuildAthon project.
 3. Name your project or choose a destination folder on your computer.
-4. Inside this dedicated project session, send this prompt in the chat:
-   > *“Clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter here and set up my environment for the BuildAthon.”*
+4. Make sure the mode/model selector is set to **“Auto”** (located at the bottom of the chat panel) so Antigravity can autonomously orchestrate development and select the optimal model.
+5. Inside this dedicated project session, send this prompt in the chat:
+   > *“Clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter here and set up my environment for the BuildAthon. Then read GEMINI.md and follow its instructions.”*
    
    > 🛡️ **Antigravity Permissions**: When prompted for `git clone` or `npm install`, select **“Yes, and always allow [command]”** to work without interruptions. For file deletions (such as `rm -rf`), choose **“Allow this time”** as a safety precaution.
 
-5. Antigravity will automatically clone the template into your dedicated folder and install dependencies (`npm install`).
-6. Share your project idea in the chat, and Antigravity will take care of building the application for you!
+6. Antigravity will automatically clone the template into your dedicated folder and install dependencies (`npm install`).
+7. Share your project idea in the chat, and Antigravity will take care of building the application for you!
 
 *(Note: If you already cloned the repository previously, simply click on **Projects** and select your existing folder).*
 
