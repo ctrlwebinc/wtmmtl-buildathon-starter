@@ -1,10 +1,12 @@
-# 🌸 WTM Montréal Hackathon — Starter Kit Vibe Coding
+# 🌸 BuildAthon — Women Techmakers Montréal + IVADO + Prompts2Products
 
-Bienvenue au **Hackathon Women Techmakers Montréal** ! 🚀
+Bienvenue au **BuildAthon** co-organisé par **Women Techmakers Montréal**, **IVADO** et **Prompts2Products** ! 🚀
 
 *(For the English version, see [README.en.md](./README.en.md))*
 
-Ce gabarit de démarrage est spécialement conçu pour vous permettre de **vibe coder** votre projet de hackathon avec l'assistance d'**Antigravity**, même si vous n'avez jamais programmé en TypeScript ou configuré de base de données.
+L'objectif de cet événement est de prendre un **problème concret du monde professionnel et des organisations** (automatiser une tâche répétitive, fluidifier un flux de travail, améliorer l'expérience employé, concevoir un outil interne, faciliter l'accès à l'information) et de le transformer en un **prototype fonctionnel et démontrable (MVP)** grâce au *vibe coding* assisté par **Antigravity**.
+
+Ce gabarit de démarrage est spécialement conçu pour vous permettre de construire votre solution même si vous n'avez jamais programmé en TypeScript ou configuré de base de données.
 
 ---
 
@@ -26,8 +28,8 @@ agy
 *(ou ouvrez ce dossier dans votre environnement Antigravity habituel)*.
 
 ### Étape 3 : Partagez votre idée !
-Dès votre premier message à Antigravity, décrivez simplement votre projet en français :
-> *« Bonjour ! Pour le hackathon, je veux créer une application d'entraide locale pour prêter des outils et des livres entre voisins à Montréal. »*
+Dès votre premier message, Antigravity vous demandera votre langue préférée (Français ou Anglais). Décrivez simplement le problème professionnel que vous voulez résoudre :
+> *« Bonjour ! Pour le BuildAthon, je veux créer un outil interne pour automatiser l'accueil et le suivi des nouveaux employés en entreprise, avec une checklist interactive et l'assignation d'un mentor. »*
 
 Antigravity prendra en charge toute la partie technique :
 - Création des règles de gestion (`src/domain/`)
@@ -68,4 +70,4 @@ Chaque fois que vous demandez à Antigravity d'ajouter une fonctionnalité (ex: 
 
 ---
 
-*Fait avec ❤️ pour le Hackathon Women Techmakers Montréal.*
+*Fait avec ❤️ pour le BuildAthon (Women Techmakers Montréal + IVADO + Prompts2Products).*

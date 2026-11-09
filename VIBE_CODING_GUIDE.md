@@ -1,10 +1,10 @@
-# 💡 The Vibe Coder's Guide (WTM Montreal Hackathon)
+# 💡 The Vibe Coder's Guide (BuildAthon WTM Montreal + IVADO + Prompts2Products)
 
 *(Pour la version française, consultez [GUIDE_DU_VIBE_CODER.md](./GUIDE_DU_VIBE_CODER.md))*
 
-**Vibe Coding** is the art of building software by directing advanced AI like Antigravity, while staying 100% focused on **ideas, user experience, and business value**, rather than boilerplate syntax and low-level technical plumbing.
+**Vibe Coding** is the art of building software by directing advanced AI like Antigravity, while staying 100% focused on **workplace needs, user experience, and delivered value**, rather than boilerplate syntax and low-level technical plumbing.
 
-Here are essential tips to make your hackathon journey smooth and successful.
+Here are essential tips to make your BuildAthon journey smooth and successful.
 
 ---
 
@@ -60,7 +60,7 @@ If something doesn't display properly or an error shows up in your terminal:
 
 ## 5. Security Check Before the Final Pitch 🛡️
 
-Before demoing your prototype to the judges, ask Antigravity for a security review:
+Before demoing your prototype to the BuildAthon judges and mentors, ask Antigravity for a security review:
 > *“Antigravity, please do a security review of my app!”*
 
-Antigravity will scan your entire codebase (SQL injection safety, XSS protection in the frontend, Zod input validation) and produce an easy-to-read **traffic-light report** (🟢 / 🟡 / 🔴) with automatic fixes if needed. It's a fantastic bonus to show off during hackathon presentations!
+Antigravity will scan your entire codebase (SQL injection safety, XSS protection in the frontend, Zod input validation) and produce an easy-to-read **traffic-light report** (🟢 / 🟡 / 🔴) with automatic fixes if needed. It's a fantastic bonus to show off during your presentation!

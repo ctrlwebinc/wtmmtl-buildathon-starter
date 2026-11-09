@@ -1,7 +1,7 @@
 {
   "name": "wtm-hackathon-agy-starter",
   "version": "1.0.0",
-  "description": "Boilerplate de démarrage pour le Hackathon WTM Montréal - Vibe Coding avec Antigravity",
+  "description": "Boilerplate de démarrage pour le BuildAthon (Women Techmakers Montréal + IVADO + Prompts2Products) - Vibe Coding avec Antigravity",
   "main": "src/index.ts",
   "type": "module",
   "scripts": {

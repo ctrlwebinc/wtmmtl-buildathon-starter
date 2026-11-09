@@ -1,10 +1,12 @@
-# 🌸 WTM Montreal Hackathon — Vibe Coding Starter Kit
+# 🌸 BuildAthon — Women Techmakers Montreal + IVADO + Prompts2Products
 
-Welcome to the **Women Techmakers Montreal Hackathon**! 🚀
+Welcome to the **BuildAthon** co-hosted by **Women Techmakers Montreal**, **IVADO**, and **Prompts2Products**! 🚀
 
 *(Pour la version française, consultez [README.md](./README.md))*
 
-This starter kit is specifically designed to let you **vibe code** your hackathon project with **Antigravity**, even if you have never coded in TypeScript or set up a database before.
+The goal of this BuildAthon is to take a **real-world challenge from organizations and the workplace** (automating a repetitive task, streamlining a workflow, enhancing employee experience, creating an internal tool, simplifying access to information) and transform it into a **demonstrable, working prototype (MVP)** through *vibe coding* assisted by **Antigravity**.
+
+This starter kit is specifically designed to let you build your solution even if you have never coded in TypeScript or set up a database before.
 
 ---
 
@@ -26,8 +28,8 @@ agy
 *(or open this directory in your favorite Antigravity environment).*
 
 ### Step 3: Share your idea!
-From your very first message, Antigravity will welcome you and ask for your preferred language (**English or French**). Then, describe your project in plain words:
-> *“Hello! For the hackathon, I want to build a local community app where neighbors in Montreal can lend each other tools and books.”*
+From your very first message, Antigravity will welcome you and ask for your preferred language (**English or French**). Then, describe the workplace challenge you want to solve:
+> *“Hello! For the BuildAthon, I want to create an internal HR onboarding tool that automates welcome checklists and assigns a mentor to each new hire.”*
 
 Antigravity handles all the technical heavy lifting:
 - Business rules & entities (`src/domain/`)
@@ -68,4 +70,4 @@ Every time you ask Antigravity to add a feature (e.g. a vote button, search bar,
 
 ---
 
-*Made with ❤️ for the Women Techmakers Montreal Hackathon.*
+*Made with ❤️ for the BuildAthon (Women Techmakers Montreal + IVADO + Prompts2Products).*

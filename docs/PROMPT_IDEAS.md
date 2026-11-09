@@ -1,41 +1,43 @@
-# 🚀 Ready-to-Use Prompt Templates
+# 🚀 Ready-to-Use Prompt Templates (BuildAthon)
 
 *(Pour la version française, consultez [IDEES_PROMPTS.md](./IDEES_PROMPTS.md))*
 
-Here are prompt templates you can copy, customize, and paste directly into Antigravity to jumpstart your WTM Montreal Hackathon project:
+The **BuildAthon** is focused on creating practical solutions for organizations and the workplace: automating repetitive tasks, streamlining workflows, improving employee experience, designing internal tools, or simplifying access to information.
+
+Here are prompt templates you can copy, customize, and paste directly into Antigravity to jumpstart your project:
 
 ---
 
-### Option A: Women in Tech Mentorship Platform
-> *“Hello Antigravity! For the hackathon, I want to build a platform that matches mentees and mentors in Montreal's tech ecosystem.*
+### Option A: Employee Onboarding & Mentorship Hub (Employee Experience)
+> *“Hello Antigravity! For the BuildAthon, I want to build an internal tool to streamline onboarding for new hires in an organization.*
 > 
 > *For the MVP:*
-> *1. Register mentor profiles (name, area of expertise, years of experience, LinkedIn URL).*
-> *2. Show a directory of all available mentors with category filters (e.g. Web Development, Data / AI, Product / UX).*
-> *3. Allow a mentee to click 'Request Session' to submit a connection request.*
+> *1. A clean dashboard with an interactive onboarding checklist (HR forms, IT equipment, team intros).*
+> *2. An assigned internal 'Buddy' / mentor card with contact details and weekly availability.*
+> *3. A quick feedback box allowing the new hire to ask questions or report a blocker.*
 > 
-> *Can you set up the clean architecture with the local SQLite database and build the interactive web UI so I can test it in my browser?”*
+> *Can you set up the clean architecture with the local SQLite database and build the interactive web UI so I can test it at http://localhost:3000?”*
 
 ---
 
-### Option B: Montreal Eco-Friendly City Guide
-> *“Hi! My project is a collaborative community map and directory of zero-waste initiatives and thrift shops across Montreal neighborhoods.*
+### Option B: Internal Request & Workflow Automation Hub (Workflow Streamlining)
+> *“Hi Antigravity! My BuildAthon project is an internal hub to centralize and prioritize cross-department requests (HR, IT, Operations).*
 > 
 > *Key features:*
-> *1. A simple form to submit an initiative (name, neighborhood like Mile End, Plateau, or Rosemont, category).*
-> *2. A community upvote button ('Community Favorite') to support local spots.*
-> *3. A clean, responsive visual interface.*
+> *1. A simple submission form (title, department, priority level).*
+> *2. A Kanban or priority-sorted list with status updating ('New', 'In Progress', 'Resolved').*
+> *3. Automatic average resolution time tracking displayed on the dashboard.*
 > 
-> *Please bootstrap the application and show me the result at http://localhost:3000!”*
+> *Please bootstrap the application end-to-end and show me the result in my browser!”*
 
 ---
 
-### Option C: Hackathon Team Dashboard & Challenge Tracker
-> *“Hey Antigravity! I want to create a collaborative dashboard for hackathon teams.*
+### Option C: Team Knowledge Base & Quick Information Portal (Access to Information)
+> *“Hey Antigravity! I want to create an internal knowledge portal that makes team policies, documentation, and best practices easy to find.*
 > 
 > *What we need:*
-> *1. Add project ideas with a status ('Brainstorming', 'In Progress', 'Ready to Pitch').*
-> *2. Assign tasks to team members.*
-> *3. A visual countdown timer showing time left before pitching.*
+> *1. Browse knowledge cards organized by category (e.g. Remote Work, Security, Procurement).*
+> *2. An instant search bar to find answers in seconds.*
+> *3. A 'This helped me' upvote button to spotlight the most useful guides.*
 > 
 > *Can you bootstrap everything with the SQLite database and create the web frontend?”*

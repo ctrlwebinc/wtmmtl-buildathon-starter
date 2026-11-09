@@ -1,10 +1,10 @@
-# 💡 Le Guide du Vibe Coder (Hackathon WTM Montréal)
+# 💡 Le Guide du Vibe Coder (BuildAthon WTM Montréal + IVADO + Prompts2Products)
 
 *(For the English version, see [VIBE_CODING_GUIDE.md](./VIBE_CODING_GUIDE.md))*
 
-Le **Vibe Coding**, c'est l'art de créer des applications complètes en pilotant une intelligence artificielle de pointe comme Antigravity, en restant concentré·e sur **l'idée, l'expérience utilisateur et la valeur métier**, plutôt que sur la syntaxe et la plomberie technique.
+Le **Vibe Coding**, c'est l'art de créer des applications complètes en pilotant une intelligence artificielle de pointe comme Antigravity, en restant concentré·e sur **le besoin professionnel, l'expérience utilisateur et la valeur générée**, plutôt que sur la syntaxe et la plomberie technique.
 
-Voici quelques conseils d'or pour maximiser vos chances de briller au hackathon.
+Voici quelques conseils d'or pour maximiser vos chances de briller lors du BuildAthon.
 
 ---
 
@@ -58,10 +58,10 @@ Si quelque chose ne s'affiche pas comme prévu ou si une erreur s'affiche dans v
 
 ---
 
-## 5. Le réflexe Sécurité avant la fin du Hackathon 🛡️
+## 5. Le réflexe Sécurité avant le pitch final 🛡️
 
-Avant de présenter votre prototype aux juges ou à votre équipe, demandez à Antigravity une revue de sécurité :
+Avant de présenter votre prototype aux juges et aux mentors du BuildAthon, demandez à Antigravity une revue de sécurité :
 > *« Antigravity, fais une revue de sécurité de mon application ! »*
 
-Antigravity va scanner l'ensemble de votre projet (injections SQL, failles XSS dans la page web, validation des formulaires avec Zod) et vous donner un **rapport feu tricolore** (🟢 / 🟡 / 🔴) avec des corrections automatiques si nécessaire. C'est un énorme plus pour briller lors des démos du hackathon !
+Antigravity va scanner l'ensemble de votre projet (injections SQL, failles XSS dans la page web, validation des formulaires avec Zod) et vous donner un **rapport feu tricolore** (🟢 / 🟡 / 🔴) avec des corrections automatiques si nécessaire. C'est un énorme plus pour briller lors de votre pitch !
 

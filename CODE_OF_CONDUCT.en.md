@@ -1,6 +1,6 @@
-# 🌸 Code of Conduct — Women Techmakers (WTM) Montreal
+# 🌸 Code of Conduct — BuildAthon (WTM Montreal + IVADO + Prompts2Products)
 
-All attendees, speakers, mentors, partners, volunteers, and organizers at the WTM Montreal Hackathon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event.
+All attendees, speakers, mentors, partners, volunteers, and organizers at the BuildAthon (co-organized by Women Techmakers Montreal, IVADO, and Prompts2Products) are required to agree with the following code of conduct. Organizers will enforce this code throughout the event.
 
 The official text is available online at:  
 👉 **[https://wtmmontreal.com/code-of-conduct/](https://wtmmontreal.com/code-of-conduct/)**  
@@ -59,8 +59,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant violates these rules, the WTM Montreal organizers may take any action they deem appropriate, from a formal warning to immediate expulsion from the hackathon without reimbursement, and a ban from future community events.
+If a participant violates these rules, the organizing team reserves the right to take any action they deem appropriate, from a formal warning to immediate expulsion from the BuildAthon without reimbursement, and a ban from future events.
 
 ---
 
-*Thank you for helping make the WTM Montreal Hackathon a welcoming, safe, and inspiring space for everyone! 💡✨*
+*Thank you for helping make the BuildAthon a welcoming, safe, and inspiring space for everyone! 💡✨*
