@@ -12,32 +12,43 @@ This starter kit is specifically designed to let you build your solution even if
 
 ---
 
-## 🎯 Getting Started in 3 Simple Steps
+## 🎯 How to Get Started? Two Simple Options
 
-### Step 1: Clone the repository and install
-Open your terminal in your workspace directory:
+### Option 1: With Antigravity Desktop (100% Visual, ZERO Command Line) 🌟
+*Recommended for beginners!*
+
+1. Open the **Antigravity Desktop** application.
+2. On the welcome screen, click **“Clone Repository”** (or go to *File > Clone Git Repository...*).
+3. Paste the repository URL:
+   ```text
+   https://github.com/ctrlwebinc/wtmmtl-buildathon-starter
+   ```
+4. Choose a folder on your computer, then open the cloned workspace in Antigravity.
+5. In the chat, start with your idea:
+   > *“Hello! For the BuildAthon, I want to create an internal HR onboarding tool that automates welcome checklists and assigns a mentor to each new hire.”*
+   
+   Antigravity will handle all technical steps:
+   - Installing dependencies automatically (`npm install`)
+   - Creating business rules & entities (`src/domain/`)
+   - Setting up the local SQLite database (`data/app.db`)
+   - Building Express web API routes
+   - Updating the live interactive frontend in your browser (`public/index.html`)
+
+> 💡 **Even easier in Antigravity Desktop**:  
+> You can also open any chat in Antigravity Desktop and prompt:  
+> *“Clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter into my workspace and set up the project.”*  
+> It will automatically clone and install everything behind the scenes!
+
+---
+
+### Option 2: Via Terminal (Command Line)
+If you prefer using the command line:
 ```bash
-git clone <url-to-your-repo>
-cd wtm-hackathon-agy-starter
+git clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter
+cd wtmmtl-buildathon-starter
 npm install
-```
-
-### Step 2: Launch Antigravity
-Start Antigravity in this folder:
-```bash
 agy
 ```
-*(or open this directory in your favorite Antigravity environment).*
-
-### Step 3: Share your idea!
-From your very first message, Antigravity will welcome you and ask for your preferred language (**English or French**). Then, describe the workplace challenge you want to solve:
-> *“Hello! For the BuildAthon, I want to create an internal HR onboarding tool that automates welcome checklists and assigns a mentor to each new hire.”*
-
-Antigravity handles all the technical heavy lifting:
-- Business rules & entities (`src/domain/`)
-- Local SQLite database & schema (`data/app.db`)
-- Express web API endpoints
-- Interactive web frontend in your browser (`public/index.html`)
 
 ---
 

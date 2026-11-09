@@ -12,32 +12,43 @@ Ce gabarit de démarrage est spécialement conçu pour vous permettre de constru
 
 ---
 
-## 🎯 Comment démarrer en 3 étapes simples
+## 🎯 Comment démarrer ? Deux options simples
 
-### Étape 1 : Cloner le projet et installer
-Ouvrez votre terminal dans votre dossier de travail :
+### Option 1 : Avec Antigravity Desktop (100% visuel, ZÉRO ligne de commande) 🌟
+*Recommandé pour les débutant·e·s !*
+
+1. Ouvrez l'application **Antigravity Desktop**.
+2. Sur l'écran d'accueil, cliquez sur **« Clone Repository »** (ou allez dans le menu *File > Clone Git Repository...*).
+3. Collez l'adresse du dépôt :
+   ```text
+   https://github.com/ctrlwebinc/wtmmtl-buildathon-starter
+   ```
+4. Choisissez un dossier sur votre ordinateur, puis ouvrez le projet dans Antigravity.
+5. Dès votre premier message dans le chat, partagez votre idée :
+   > *« Bonjour ! Pour le BuildAthon, je veux créer un outil interne pour automatiser l'accueil et le suivi des nouveaux employés en entreprise, avec une checklist interactive et l'assignation d'un mentor. »*
+   
+   Antigravity prendra en charge toute la partie technique :
+   - Installation automatique des dépendances (`npm install`)
+   - Création des règles de gestion (`src/domain/`)
+   - Configuration de la base SQLite locale (`data/app.db`)
+   - Création de l'API web Express et des routes
+   - Mise à jour de l'interface graphique interactive dans votre navigateur (`public/index.html`)
+
+> 💡 **Astuce encore plus directe** :  
+> Dans une conversation avec Antigravity Desktop, vous pouvez aussi simplement taper :  
+> *« Clone le dépôt https://github.com/ctrlwebinc/wtmmtl-buildathon-starter dans mon dossier de travail et prépare le projet. »*  
+> Il exécutera le clonage et l'installation automatiquement !
+
+---
+
+### Option 2 : Via le Terminal (Ligne de commande)
+Si vous êtes à l'aise avec la ligne de commande :
 ```bash
-git clone <url-de-votre-repo>
-cd wtm-hackathon-agy-starter
+git clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter
+cd wtmmtl-buildathon-starter
 npm install
-```
-
-### Étape 2 : Lancer Antigravity
-Démarrez Antigravity dans ce dossier :
-```bash
 agy
 ```
-*(ou ouvrez ce dossier dans votre environnement Antigravity habituel)*.
-
-### Étape 3 : Partagez votre idée !
-Dès votre premier message, Antigravity vous demandera votre langue préférée (Français ou Anglais). Décrivez simplement le problème professionnel que vous voulez résoudre :
-> *« Bonjour ! Pour le BuildAthon, je veux créer un outil interne pour automatiser l'accueil et le suivi des nouveaux employés en entreprise, avec une checklist interactive et l'assignation d'un mentor. »*
-
-Antigravity prendra en charge toute la partie technique :
-- Création des règles de gestion (`src/domain/`)
-- Création de la base SQLite locale (`data/app.db`)
-- Création de l'API web Express
-- Création de l'interface graphique interactive dans votre navigateur (`public/index.html`)
 
 ---
 
