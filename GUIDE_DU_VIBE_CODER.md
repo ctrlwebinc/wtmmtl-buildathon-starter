@@ -46,11 +46,17 @@ Si quelque chose ne s'affiche pas comme prévu ou si une erreur s'affiche dans v
 
 ---
 
-## 4. Les autorisations système d'Antigravity 🛡️
+## 4. Les autorisations système d'Antigravity : Comment choisir ? 🛡️
 
-Pour assurer votre sécurité, Antigravity vous demandera parfois de confirmer certaines actions (comme `git clone` ou `npm install`) :
-* **Conseil :** Choisissez toujours **« Yes, and always allow [commande] »** (ou *Always allow*).
-* Cela autorise Antigravity à exécuter cette action sans vous réinterrompre à chaque fois, ce qui rend votre expérience de *vibe coding* beaucoup plus fluide et agréable.
+Pour garantir votre sécurité, Antigravity vous demandera parfois de confirmer certaines actions sur votre ordinateur. Voici la règle d'or pour savoir quoi choisir :
+
+### 🟢 1. Les commandes constructives (`git clone`, `npm install`, `npm test`, `tsx`)
+* 👉 **Choisissez : « Yes, and always allow [commande] »** (ou *Always allow*).
+* **Pourquoi ?** Ce sont des opérations indispensables et courantes (télécharger le gabarit, installer les bibliothèques, tester le code). En donnant une autorisation permanente, Antigravity peut travailler en toute autonomie sans vous interrompre toutes les 30 secondes pour une simple installation.
+
+### ⚠️ 2. Les commandes destructives (`rm -rf`, suppressions, réinitialisations)
+* 👉 **Choisissez : « Allow this time »** (Autoriser une seule fois).
+* **Pourquoi ?** Les commandes comme `rm -rf test_dir` suppriment définitivement des fichiers ou des dossiers. Même si l'agent l'utilise légitimement (par exemple pour nettoyer un dossier de test temporaire), **ne donnez jamais d'autorisation permanente** pour `rm`. Autoriser une seule fois vous permet de garder la maîtrise et d'éviter toute suppression accidentelle.
 
 ---
 

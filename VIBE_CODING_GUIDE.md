@@ -46,11 +46,17 @@ If something doesn't display properly or an error shows up in your terminal:
 
 ---
 
-## 4. Antigravity System Permissions 🛡️
+## 4. Antigravity System Permissions: How to Choose? 🛡️
 
-To keep your machine safe, Antigravity will occasionally ask you to confirm certain actions (such as `git clone` or `npm install`):
-* **Tip:** Always select **“Yes, and always allow [command]”** (or *Always allow*).
-* This grants Antigravity permission to run the command without interrupting you each time, making your *vibe coding* experience significantly smoother.
+To keep your computer secure, Antigravity will occasionally ask you to approve terminal commands. Here is the golden rule to guide your choices:
+
+### 🟢 1. Constructive commands (`git clone`, `npm install`, `npm test`, `tsx`)
+* 👉 **Choose: “Yes, and always allow [command]”** (or *Always allow*).
+* **Why?** These are routine, constructive operations (downloading the template, installing libraries, running tests). Approving them permanently allows Antigravity to work autonomously without interrupting you every 30 seconds for standard steps.
+
+### ⚠️ 2. Destructive commands (`rm -rf`, deletions, database resets)
+* 👉 **Choose: “Allow this time”** (Allow once).
+* **Why?** Commands like `rm -rf test_dir` permanently delete files or directories. Even when Antigravity has a valid reason (e.g. cleaning up temporary test folders), **never grant permanent allow for `rm`**. Approving on a one-off basis keeps you in control and avoids accidental data loss.
 
 ---
 

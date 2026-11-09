@@ -23,7 +23,7 @@ Ce gabarit de démarrage est spécialement conçu pour vous permettre de constru
 4. Dans cette session dédiée, envoyez simplement ce prompt à Antigravity :
    > *« Clone le dépôt https://github.com/ctrlwebinc/wtmmtl-buildathon-starter ici et prépare mon environnement pour le BuildAthon. »*
    
-   > 🛡️ **Autorisations Antigravity** : Si l'application vous demande une confirmation pour exécuter `git clone` ou `npm install`, choisissez simplement **« Yes, and always allow [commande] »** (ou *Always allow*) pour que l'installation et le développement se poursuivent sans interruption.
+   > 🛡️ **Autorisations Antigravity** : Si l'application vous demande une confirmation pour `git clone` ou `npm install`, choisissez **« Yes, and always allow [commande] »** pour travailler sans interruption. En revanche, pour des suppressions de fichiers (comme `rm -rf`), choisissez **« Allow this time »** par mesure de prudence.
 
 5. Antigravity va automatiquement cloner le gabarit dans ce dossier dédié et installer les dépendances (`npm install`).
 6. Partagez-lui ensuite votre idée de projet, et Antigravity construira toute l'application pour vous !
