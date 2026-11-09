@@ -67,6 +67,7 @@ Every time you ask Antigravity to add a feature (e.g. a vote button, search bar,
 - Check out the **[Vibe Coding Guide](./VIBE_CODING_GUIDE.md)** to learn how to prompt AI effectively.
 - Explore the **[Prompt Ideas Catalog](./docs/PROMPT_IDEAS.md)** for project inspiration.
 - Review the **[WTM Montreal Code of Conduct](./CODE_OF_CONDUCT.en.md)** for a respectful, welcoming event.
+- Released under the open-source **[MIT License](./LICENSE)** by **ctrlweb**.
 
 ---
 
