@@ -14,35 +14,22 @@ This starter kit is specifically designed to let you build your solution even if
 
 ## 🎯 How to Get Started? Two Simple Options
 
-### Option 1: With Antigravity Desktop (100% Visual, ZERO Command Line) 🌟
-*Recommended for beginners!*
+### Option 1: Directly in Antigravity Desktop (ZERO Command Line) 🌟
+*The easiest method for beginners!*
 
 1. Open the **Antigravity Desktop** application.
-2. On the welcome screen, click **“Clone Repository”** (or go to *File > Clone Git Repository...*).
-3. Paste the repository URL:
-   ```text
-   https://github.com/ctrlwebinc/wtmmtl-buildathon-starter
-   ```
-4. Choose a folder on your computer, then open the cloned workspace in Antigravity.
-5. In the chat, start with your idea:
-   > *“Hello! For the BuildAthon, I want to create an internal HR onboarding tool that automates welcome checklists and assigns a mentor to each new hire.”*
-   
-   Antigravity will handle all technical steps:
-   - Installing dependencies automatically (`npm install`)
-   - Creating business rules & entities (`src/domain/`)
-   - Setting up the local SQLite database (`data/app.db`)
-   - Building Express web API routes
-   - Updating the live interactive frontend in your browser (`public/index.html`)
+2. In the left-hand sidebar, click **“New Conversation”** to start a new session.
+3. Simply send this prompt in the chat:
+   > *“Clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter and set up my environment for the BuildAthon.”*
+4. Antigravity will automatically clone the repository into your workspace and install dependencies (`npm install`).
+5. Share your project idea in the chat, and Antigravity will take care of building the application for you!
 
-> 💡 **Even easier in Antigravity Desktop**:  
-> You can also open any chat in Antigravity Desktop and prompt:  
-> *“Clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter into my workspace and set up the project.”*  
-> It will automatically clone and install everything behind the scenes!
+*(Note: If the project is already cloned on your machine, you can also select it directly from the **Projects** section in the left sidebar).*
 
 ---
 
 ### Option 2: Via Terminal (Command Line)
-If you prefer using the command line:
+If you prefer using your standard terminal:
 ```bash
 git clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter
 cd wtmmtl-buildathon-starter

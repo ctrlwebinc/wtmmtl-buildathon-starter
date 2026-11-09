@@ -14,35 +14,22 @@ Ce gabarit de démarrage est spécialement conçu pour vous permettre de constru
 
 ## 🎯 Comment démarrer ? Deux options simples
 
-### Option 1 : Avec Antigravity Desktop (100% visuel, ZÉRO ligne de commande) 🌟
-*Recommandé pour les débutant·e·s !*
+### Option 1 : Directement dans Antigravity Desktop (ZÉRO ligne de commande) 🌟
+*La méthode la plus simple pour les débutant·e·s !*
 
 1. Ouvrez l'application **Antigravity Desktop**.
-2. Sur l'écran d'accueil, cliquez sur **« Clone Repository »** (ou allez dans le menu *File > Clone Git Repository...*).
-3. Collez l'adresse du dépôt :
-   ```text
-   https://github.com/ctrlwebinc/wtmmtl-buildathon-starter
-   ```
-4. Choisissez un dossier sur votre ordinateur, puis ouvrez le projet dans Antigravity.
-5. Dès votre premier message dans le chat, partagez votre idée :
-   > *« Bonjour ! Pour le BuildAthon, je veux créer un outil interne pour automatiser l'accueil et le suivi des nouveaux employés en entreprise, avec une checklist interactive et l'assignation d'un mentor. »*
-   
-   Antigravity prendra en charge toute la partie technique :
-   - Installation automatique des dépendances (`npm install`)
-   - Création des règles de gestion (`src/domain/`)
-   - Configuration de la base SQLite locale (`data/app.db`)
-   - Création de l'API web Express et des routes
-   - Mise à jour de l'interface graphique interactive dans votre navigateur (`public/index.html`)
+2. Dans la barre latérale gauche, cliquez sur **« New Conversation »** pour démarrer une nouvelle session.
+3. Envoyez simplement ce prompt à Antigravity dans le chat :
+   > *« Clone le dépôt https://github.com/ctrlwebinc/wtmmtl-buildathon-starter et prépare mon environnement pour le BuildAthon. »*
+4. Antigravity va automatiquement cloner le dépôt dans votre dossier de travail et installer les dépendances (`npm install`).
+5. Partagez-lui ensuite votre idée de projet, et Antigravity s'occupera de tout le développement pour vous !
 
-> 💡 **Astuce encore plus directe** :  
-> Dans une conversation avec Antigravity Desktop, vous pouvez aussi simplement taper :  
-> *« Clone le dépôt https://github.com/ctrlwebinc/wtmmtl-buildathon-starter dans mon dossier de travail et prépare le projet. »*  
-> Il exécutera le clonage et l'installation automatiquement !
+*(Note : Si le projet est déjà présent sur votre machine, vous pouvez également le sélectionner directement depuis la section **Projects** dans la barre latérale gauche).*
 
 ---
 
 ### Option 2 : Via le Terminal (Ligne de commande)
-Si vous êtes à l'aise avec la ligne de commande :
+Si vous préférez utiliser votre terminal classique :
 ```bash
 git clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter
 cd wtmmtl-buildathon-starter
