@@ -1,5 +1,7 @@
 # 💡 Le Guide du Vibe Coder (Hackathon WTM Montréal)
 
+*(For the English version, see [VIBE_CODING_GUIDE.md](./VIBE_CODING_GUIDE.md))*
+
 Le **Vibe Coding**, c'est l'art de créer des applications complètes en pilotant une intelligence artificielle de pointe comme Antigravity, en restant concentré·e sur **l'idée, l'expérience utilisateur et la valeur métier**, plutôt que sur la syntaxe et la plomberie technique.
 
 Voici quelques conseils d'or pour maximiser vos chances de briller au hackathon.

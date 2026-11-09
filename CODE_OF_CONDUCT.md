@@ -3,7 +3,8 @@
 Tous les participants, conférenciers, mentors, partenaires, bénévoles et membres de l'organisation lors du Hackathon WTM Montréal sont tenus d'adhérer au présent code de conduite. Les organisateurs veilleront au respect de ces règles tout au long de l'événement.
 
 Le texte officiel est consultable en ligne à l'adresse :  
-👉 **[https://wtmmontreal.com/fr/code-of-conduct/](https://wtmmontreal.com/fr/code-of-conduct/)**
+👉 **[https://wtmmontreal.com/fr/code-of-conduct/](https://wtmmontreal.com/fr/code-of-conduct/)**  
+*(For the English version, see [CODE_OF_CONDUCT.en.md](./CODE_OF_CONDUCT.en.md))*
 
 ---
 

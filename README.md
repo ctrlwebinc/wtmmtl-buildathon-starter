@@ -2,6 +2,8 @@
 
 Bienvenue au **Hackathon Women Techmakers Montréal** ! 🚀
 
+*(For the English version, see [README.en.md](./README.en.md))*
+
 Ce gabarit de démarrage est spécialement conçu pour vous permettre de **vibe coder** votre projet de hackathon avec l'assistance d'**Antigravity**, même si vous n'avez jamais programmé en TypeScript ou configuré de base de données.
 
 ---

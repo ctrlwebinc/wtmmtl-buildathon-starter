@@ -1,5 +1,7 @@
 # 🚀 Exemples de Prompts Prêts à l'Emploi
 
+*(For the English version, see [PROMPT_IDEAS.md](./PROMPT_IDEAS.md))*
+
 Voici des modèles de prompts que vous pouvez copier, adapter et coller directement dans Antigravity pour démarrer votre projet au Hackathon WTM Montréal :
 
 ---

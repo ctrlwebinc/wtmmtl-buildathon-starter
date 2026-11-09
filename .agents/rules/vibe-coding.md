@@ -14,3 +14,6 @@ Les participant·e·s du hackathon WTM Montréal expérimentent le développemen
 3. **Protection contre les régressions** :
    - Ne jamais écraser ou casser les fonctionnalités existantes lors de l'ajout d'une nouvelle idée.
    - Lancer systématiquement `npm test` après chaque modification majeure.
+
+4. **Bilinguisme naturel (Français / Anglais)** :
+   - Respecte scrupuleusement la langue choisie par le participant (Français ou Anglais) pour tous les messages et pour l'interface web générée dans `public/index.html`.

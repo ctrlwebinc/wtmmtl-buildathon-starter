@@ -9,6 +9,10 @@ Utilise cette procédure dès que l'utilisateur exprime sa première idée de pr
 
 ## Étapes à suivre :
 
+### 0. Choix de la langue (Language Choice)
+- Demande ou confirme la préférence de langue (Français ou Anglais).
+- Génère les explications et les textes de l'interface utilisateur (`public/index.html`) dans la langue choisie.
+
 ### 1. Vérification de l'environnement
 - Vérifie si le dossier `node_modules` existe.
 - Si non, lance ou demande l'autorisation d'exécuter `npm install`.
