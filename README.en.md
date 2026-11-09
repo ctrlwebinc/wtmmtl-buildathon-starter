@@ -22,6 +22,9 @@ This starter kit is specifically designed to let you build your solution even if
 3. Name your project or choose a destination folder on your computer.
 4. Inside this dedicated project session, send this prompt in the chat:
    > *“Clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter here and set up my environment for the BuildAthon.”*
+   
+   > 🛡️ **Antigravity Permission Prompt**: If the application prompts you for permission to run the command, simply choose **“Yes, and always allow git clone”** (or *Always allow*) to proceed smoothly.
+
 5. Antigravity will automatically clone the template into your dedicated folder and install dependencies (`npm install`).
 6. Share your project idea in the chat, and Antigravity will take care of building the application for you!
 

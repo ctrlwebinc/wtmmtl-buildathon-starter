@@ -46,7 +46,15 @@ If something doesn't display properly or an error shows up in your terminal:
 
 ---
 
-## 4. 3 Rules of Thumb for Prompting
+## 4. Antigravity System Permissions 🛡️
+
+To keep your machine safe, Antigravity will occasionally ask you to confirm certain actions (such as `git clone` or `npm install`):
+* **Tip:** Always select **“Yes, and always allow [command]”** (or *Always allow*).
+* This grants Antigravity permission to run the command without interrupting you each time, making your *vibe coding* experience significantly smoother.
+
+---
+
+## 5. 3 Rules of Thumb for Prompting
 
 1. **Be specific about the desired outcome**:
    * ❌ *“Make it look better.”*
@@ -58,7 +66,7 @@ If something doesn't display properly or an error shows up in your terminal:
 
 ---
 
-## 5. Security Check Before the Final Pitch 🛡️
+## 6. Security Check Before the Final Pitch 🛡️
 
 Before demoing your prototype to the BuildAthon judges and mentors, ask Antigravity for a security review:
 > *“Antigravity, please do a security review of my app!”*

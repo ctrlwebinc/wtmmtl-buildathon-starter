@@ -46,7 +46,15 @@ Si quelque chose ne s'affiche pas comme prévu ou si une erreur s'affiche dans v
 
 ---
 
-## 4. Les 3 Règles d'Or pour vos Prompts
+## 4. Les autorisations système d'Antigravity 🛡️
+
+Pour assurer votre sécurité, Antigravity vous demandera parfois de confirmer certaines actions (comme `git clone` ou `npm install`) :
+* **Conseil :** Choisissez toujours **« Yes, and always allow [commande] »** (ou *Always allow*).
+* Cela autorise Antigravity à exécuter cette action sans vous réinterrompre à chaque fois, ce qui rend votre expérience de *vibe coding* beaucoup plus fluide et agréable.
+
+---
+
+## 5. Les 3 Règles d'Or pour vos Prompts
 
 1. **Soyez précis·e sur le résultat attendu** :
    * ❌ *« Rends ça plus beau. »*
@@ -58,7 +66,7 @@ Si quelque chose ne s'affiche pas comme prévu ou si une erreur s'affiche dans v
 
 ---
 
-## 5. Le réflexe Sécurité avant le pitch final 🛡️
+## 6. Le réflexe Sécurité avant le pitch final 🛡️
 
 Avant de présenter votre prototype aux juges et aux mentors du BuildAthon, demandez à Antigravity une revue de sécurité :
 > *« Antigravity, fais une revue de sécurité de mon application ! »*
