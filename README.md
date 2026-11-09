@@ -15,16 +15,17 @@ Ce gabarit de démarrage est spécialement conçu pour vous permettre de constru
 ## 🎯 Comment démarrer ? Deux options simples
 
 ### Option 1 : Directement dans Antigravity Desktop (ZÉRO ligne de commande) 🌟
-*La méthode la plus simple pour les débutant·e·s !*
+*La méthode la plus simple et recommandée pour les débutant·e·s !*
 
 1. Ouvrez l'application **Antigravity Desktop**.
-2. Dans la barre latérale gauche, cliquez sur **« New Conversation »** pour démarrer une nouvelle session.
-3. Envoyez simplement ce prompt à Antigravity dans le chat :
-   > *« Clone le dépôt https://github.com/ctrlwebinc/wtmmtl-buildathon-starter et prépare mon environnement pour le BuildAthon. »*
-4. Antigravity va automatiquement cloner le dépôt dans votre dossier de travail et installer les dépendances (`npm install`).
-5. Partagez-lui ensuite votre idée de projet, et Antigravity s'occupera de tout le développement pour vous !
+2. Dans la barre latérale gauche, cliquez sur **Projects**, puis sélectionnez **« New Project »** (ou l'icône **`+`**) pour créer un espace de travail dédié à votre BuildAthon.
+3. Nommez votre projet ou choisissez un dossier de travail sur votre ordinateur.
+4. Dans cette session dédiée, envoyez simplement ce prompt à Antigravity :
+   > *« Clone le dépôt https://github.com/ctrlwebinc/wtmmtl-buildathon-starter ici et prépare mon environnement pour le BuildAthon. »*
+5. Antigravity va automatiquement cloner le gabarit dans ce dossier dédié et installer les dépendances (`npm install`).
+6. Partagez-lui ensuite votre idée de projet, et Antigravity construira toute l'application pour vous !
 
-*(Note : Si le projet est déjà présent sur votre machine, vous pouvez également le sélectionner directement depuis la section **Projects** dans la barre latérale gauche).*
+*(Note : Si vous aviez déjà cloné le dépôt auparavant, il vous suffit de cliquer sur **Projects** et d'ouvrir le dossier existant).*
 
 ---
 

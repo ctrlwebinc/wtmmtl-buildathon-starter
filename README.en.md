@@ -15,16 +15,17 @@ This starter kit is specifically designed to let you build your solution even if
 ## 🎯 How to Get Started? Two Simple Options
 
 ### Option 1: Directly in Antigravity Desktop (ZERO Command Line) 🌟
-*The easiest method for beginners!*
+*The easiest and recommended method for beginners!*
 
 1. Open the **Antigravity Desktop** application.
-2. In the left-hand sidebar, click **“New Conversation”** to start a new session.
-3. Simply send this prompt in the chat:
-   > *“Clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter and set up my environment for the BuildAthon.”*
-4. Antigravity will automatically clone the repository into your workspace and install dependencies (`npm install`).
-5. Share your project idea in the chat, and Antigravity will take care of building the application for you!
+2. In the left-hand sidebar, click **Projects**, then select **“New Project”** (or the **`+`** icon) to create a dedicated workspace for your BuildAthon project.
+3. Name your project or choose a destination folder on your computer.
+4. Inside this dedicated project session, send this prompt in the chat:
+   > *“Clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter here and set up my environment for the BuildAthon.”*
+5. Antigravity will automatically clone the template into your dedicated folder and install dependencies (`npm install`).
+6. Share your project idea in the chat, and Antigravity will take care of building the application for you!
 
-*(Note: If the project is already cloned on your machine, you can also select it directly from the **Projects** section in the left sidebar).*
+*(Note: If you already cloned the repository previously, simply click on **Projects** and select your existing folder).*
 
 ---
 
