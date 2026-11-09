@@ -8,6 +8,8 @@ L'objectif de cet événement est de prendre un **problème concret du monde pro
 
 Ce gabarit de démarrage est spécialement conçu pour vous permettre de construire votre solution même si vous n'avez jamais programmé en TypeScript ou configuré de base de données.
 
+> 💡 **Ce starter kit a été conçu et préparé avec ❤️ par Émilie et Daniel de l'agence [ctrlweb](https://ctrlweb.ca) pour faciliter le démarrage de tous les participant·e·s au BuildAthon.**
+
 ---
 
 ## 🎯 Comment démarrer en 3 étapes simples
@@ -71,4 +73,4 @@ Chaque fois que vous demandez à Antigravity d'ajouter une fonctionnalité (ex: 
 
 ---
 
-*Fait avec ❤️ pour le BuildAthon (Women Techmakers Montréal + IVADO + Prompts2Products).*
+*Conçu avec ❤️ par Émilie et Daniel de l'agence [ctrlweb](https://ctrlweb.ca) pour le BuildAthon (Women Techmakers Montréal + IVADO + Prompts2Products).*

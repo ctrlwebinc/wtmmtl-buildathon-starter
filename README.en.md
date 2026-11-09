@@ -8,6 +8,8 @@ The goal of this BuildAthon is to take a **real-world challenge from organizatio
 
 This starter kit is specifically designed to let you build your solution even if you have never coded in TypeScript or set up a database before.
 
+> 💡 **This starter kit was designed and crafted with ❤️ by Émilie & Daniel from the [ctrlweb](https://ctrlweb.ca) agency to empower all participants at the BuildAthon.**
+
 ---
 
 ## 🎯 Getting Started in 3 Simple Steps
@@ -71,4 +73,4 @@ Every time you ask Antigravity to add a feature (e.g. a vote button, search bar,
 
 ---
 
-*Made with ❤️ for the BuildAthon (Women Techmakers Montreal + IVADO + Prompts2Products).*
+*Crafted with ❤️ by Émilie and Daniel from [ctrlweb](https://ctrlweb.ca) for the BuildAthon (Women Techmakers Montreal + IVADO + Prompts2Products).*
