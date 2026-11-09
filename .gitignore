@@ -1,0 +1,22 @@
+# Dépendances
+node_modules/
+dist/
+
+# Base de données SQLite locale (données de test)
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+*.db
+
+# Environnement
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db

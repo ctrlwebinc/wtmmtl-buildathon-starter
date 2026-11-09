@@ -1,0 +1,42 @@
+{
+  "name": "wtm-hackathon-agy-starter",
+  "version": "1.0.0",
+  "description": "Boilerplate de démarrage pour le Hackathon WTM Montréal - Vibe Coding avec Antigravity",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "db:generate": "drizzle-kit generate",
+    "db:push": "drizzle-kit push",
+    "check": "vitest run && tsc --noEmit"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "dotenv": "^16.4.7",
+    "drizzle-orm": "^0.39.3",
+    "express": "^4.21.2",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.12",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.1",
+    "drizzle-kit": "^0.30.4",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  },
+  "keywords": [
+    "wtm",
+    "hackathon",
+    "antigravity",
+    "vibe-coding",
+    "clean-architecture",
+    "sqlite"
+  ],
+  "author": "Women Techmakers Montréal",
+  "license": "MIT"
+}
