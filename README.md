@@ -62,6 +62,7 @@ Chaque fois que vous demandez à Antigravity d'ajouter une fonctionnalité (ex: 
 
 - Consultez le **[Guide du Vibe Coder](./GUIDE_DU_VIBE_CODER.md)** pour apprendre à bien formuler vos demandes à l'IA.
 - Consultez le catalogue d'**[Exemples de Prompts](./docs/IDEES_PROMPTS.md)** pour trouver l'inspiration.
+- Prenez connaissance du **[Code de conduite WTM Montréal](./CODE_OF_CONDUCT.md)** pour un événement inclusif, respectueux et bienveillant.
 
 ---
 
