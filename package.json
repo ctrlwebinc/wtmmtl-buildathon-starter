@@ -1,7 +1,7 @@
 {
   "name": "wtmmtl-buildathon-starter",
   "version": "1.0.0",
-  "description": "Boilerplate de démarrage pour le BuildAthon (Women Techmakers Montréal + IVADO + Prompts2Products) - Vibe Coding avec Antigravity",
+  "description": "Boilerplate de démarrage pour le BuildAthon (Women Techmakers Montréal + IVADO + Prompts2Products) - Vibe Coding avec Antigravity ou Claude Code",
   "main": "src/index.ts",
   "type": "module",
   "scripts": {
@@ -33,6 +33,7 @@
     "wtm",
     "hackathon",
     "antigravity",
+    "claude-code",
     "vibe-coding",
     "clean-architecture",
     "sqlite"

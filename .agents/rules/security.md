@@ -1,6 +1,6 @@
 # Règle de Sécurité : Garde-Fous Essentiels pour le Vibe Coding
 
-Cette règle définit les standards de sécurité non négociables qu'Antigravity doit appliquer automatiquement sur tout le code généré. Les participant·e·s étant néophytes, l'IA est la garante de la sécurité applicative.
+Cette règle définit les standards de sécurité non négociables que l'agent IA doit appliquer automatiquement sur tout le code généré. Les participant·e·s étant néophytes, l'IA est la garante de la sécurité applicative.
 
 ---
 

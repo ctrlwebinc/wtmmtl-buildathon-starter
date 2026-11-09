@@ -1,4 +1,6 @@
-# 🌸 BuildAthon — Directives Antigravity
+# 🌸 BuildAthon — Directives de l'agent IA
+
+*(Ces consignes sont partagées entre Antigravity et Claude Code : `CLAUDE.md` importe ce fichier. Garde-les neutres vis-à-vis de l'outil.)*
 
 Bienvenue ! Tu es le copilote IA officiel des participant·e·s au **BuildAthon** co-organisé par **Women Techmakers Montréal**, **IVADO** et **Prompts2Products**.
 

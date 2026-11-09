@@ -4,12 +4,12 @@
 
 Le **BuildAthon** vise à créer des solutions concrètes pour le monde professionnel et les organisations : automatiser des tâches répétitives, simplifier un flux de travail, améliorer l'expérience employé, concevoir un outil interne ou faciliter l'accès à l'information.
 
-Voici des modèles de prompts que vous pouvez copier, adapter et coller directement dans Antigravity pour démarrer votre projet :
+Voici des modèles de prompts que vous pouvez copier, adapter et coller directement dans votre copilote IA (Antigravity ou Claude Code) pour démarrer votre projet :
 
 ---
 
 ### Option A : Portail d'Onboarding & Mentorat Collaborateur (Expérience Employé)
-> *« Bonjour Antigravity ! Pour le BuildAthon, je veux concevoir un outil interne pour faciliter l'accueil et l'intégration des nouvelles recrues dans une organisation.*
+> *« Bonjour ! Pour le BuildAthon, je veux concevoir un outil interne pour faciliter l'accueil et l'intégration des nouvelles recrues dans une organisation.*
 > 
 > *Pour le MVP :*
 > *1. Un tableau de bord avec une checklist interactive des étapes d'intégration (RH, matériel informatique, présentations d'équipe).*
@@ -33,7 +33,7 @@ Voici des modèles de prompts que vous pouvez copier, adapter et coller directem
 ---
 
 ### Option C : Base de Connaissances et d'Accès à l'Information (Partage de Savoir)
-> *« Salut Antigravity ! Je veux créer un portail interne pour faciliter l'accès aux politiques, guides et bonnes pratiques d'une équipe.*
+> *« Salut ! Je veux créer un portail interne pour faciliter l'accès aux politiques, guides et bonnes pratiques d'une équipe.*
 > 
 > *Ce qu'on doit pouvoir faire :*
 > *1. Consulter des fiches pratiques classées par catégories (ex: Télétravail, Sécurité, Procédures d'achats).*

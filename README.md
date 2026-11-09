@@ -4,7 +4,7 @@ Bienvenue au **BuildAthon** co-organisé par **Women Techmakers Montréal**, **I
 
 *(For the English version, see [README.en.md](./README.en.md))*
 
-L'objectif de cet événement est de prendre un **problème concret du monde professionnel et des organisations** (automatiser une tâche répétitive, fluidifier un flux de travail, améliorer l'expérience employé, concevoir un outil interne, faciliter l'accès à l'information) et de le transformer en un **prototype fonctionnel et démontrable (MVP)** grâce au *vibe coding* assisté par **Antigravity**.
+L'objectif de cet événement est de prendre un **problème concret du monde professionnel et des organisations** (automatiser une tâche répétitive, fluidifier un flux de travail, améliorer l'expérience employé, concevoir un outil interne, faciliter l'accès à l'information) et de le transformer en un **prototype fonctionnel et démontrable (MVP)** grâce au *vibe coding* assisté par l'IA, avec **Antigravity** ou **Claude Code**.
 
 Ce gabarit de démarrage est spécialement conçu pour vous permettre de construire votre solution même si vous n'avez jamais programmé en TypeScript ou configuré de base de données.
 
@@ -12,48 +12,37 @@ Ce gabarit de démarrage est spécialement conçu pour vous permettre de constru
 
 ---
 
-## 🎯 Comment démarrer ? Deux options simples
+## ✅ Prérequis
 
-### Option 1 : Directement dans Antigravity Desktop (ZÉRO ligne de commande) 🌟
-*La méthode la plus simple et recommandée pour les débutant·e·s !*
-
-1. Ouvrez l'application **Antigravity Desktop**.
-2. Dans la barre latérale gauche, cliquez sur **Projects**, puis sélectionnez **« New Project »** (ou l'icône **`+`**) pour créer un espace de travail dédié à votre BuildAthon.
-3. Nommez votre projet ou choisissez un dossier de travail sur votre ordinateur.
-4. Assurez-vous que le mode est bien réglé sur **« Auto »** (dans le sélecteur au bas de la zone de discussion) pour qu'Antigravity orchestre le développement de manière fluide et autonome.
-5. Dans cette session dédiée, envoyez simplement ce prompt à Antigravity :
-   > *« Clone le dépôt https://github.com/ctrlwebinc/wtmmtl-buildathon-starter ici et prépare mon environnement pour le BuildAthon. Ensuite, lis GEMINI.md et suis ses consignes. »*
-   
-   > 🛡️ **Autorisations Antigravity** : Si l'application vous demande une confirmation pour `git clone` ou `npm install`, choisissez **« Yes, and always allow [commande] »** pour travailler sans interruption. En revanche, pour des suppressions de fichiers (comme `rm -rf`), choisissez **« Allow this time »** par mesure de prudence.
-
-6. Antigravity va automatiquement cloner le gabarit dans ce dossier dédié et installer les dépendances (`npm install`).
-7. Partagez-lui ensuite votre idée de projet, et Antigravity construira toute l'application pour vous !
-
-*(Note : Si vous aviez déjà cloné le dépôt auparavant, il vous suffit de cliquer sur **Projects** et d'ouvrir le dossier existant).*
+Quel que soit l'outil choisi, installez ces deux logiciels gratuits (suivez les instructions de chaque page) :
+- **Node.js** (version LTS) : 👉 [nodejs.org/fr/download](https://nodejs.org/fr/download)
+- **Git** : 👉 [git-scm.com/downloads](https://git-scm.com/downloads)
 
 ---
 
-### Option 2 : Via le Terminal (Ligne de commande)
-Si vous préférez utiliser votre terminal classique :
-```bash
-git clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter
-cd wtmmtl-buildathon-starter
-npm install
-agy
-```
+## 🎯 Comment démarrer ? Choisissez votre copilote IA
+
+| | Outil | Pour qui ? | Guide de démarrage |
+| :---: | :--- | :--- | :--- |
+| 🪐 | **Antigravity** (Google) | Compte Google (offre gratuite disponible) | 👉 **[Démarrer avec Antigravity](./docs/DEMARRAGE_ANTIGRAVITY.md)** |
+| ✳️ | **Claude Code** (Anthropic) | Abonnement Claude Pro, Max, Team ou Enterprise | 👉 **[Démarrer avec Claude Code](./docs/DEMARRAGE_CLAUDE_CODE.md)** |
+
+Chaque guide explique comment **installer l'outil**, puis comment **démarrer votre projet** (avec ou sans ligne de commande). Le gabarit fonctionne de la même façon avec les deux : mêmes règles d'architecture, mêmes commandes, même accompagnement.
+
+> 📖 **Avant de vous lancer**, prenez 5 minutes pour lire le **[Guide du Vibe Coder](./GUIDE_DU_VIBE_CODER.md)** : il vous aidera à bien formuler vos demandes et à tirer le meilleur de votre copilote IA.
 
 ---
 
 ## 💻 Visualiser votre application en direct
 
-Une fois qu'Antigravity a généré votre projet, lancez le serveur :
+Une fois que votre copilote IA a généré votre projet, lancez le serveur :
 ```bash
 npm run dev
 ```
 Puis ouvrez votre navigateur sur :
 👉 **[http://localhost:3000](http://localhost:3000)**
 
-Chaque fois que vous demandez à Antigravity d'ajouter une fonctionnalité (ex: un bouton de vote, un champ de recherche, une nouvelle page), il mettra à jour l'interface web pour que vous puissiez tester le résultat en direct !
+Chaque fois que vous demandez à votre copilote IA d'ajouter une fonctionnalité (ex: un bouton de vote, un champ de recherche, une nouvelle page), il mettra à jour l'interface web pour que vous puissiez tester le résultat en direct !
 
 ---
 

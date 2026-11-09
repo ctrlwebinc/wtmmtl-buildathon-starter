@@ -4,7 +4,7 @@ Welcome to the **BuildAthon** co-hosted by **Women Techmakers Montreal**, **IVAD
 
 *(Pour la version française, consultez [README.md](./README.md))*
 
-The goal of this BuildAthon is to take a **real-world challenge from organizations and the workplace** (automating a repetitive task, streamlining a workflow, enhancing employee experience, creating an internal tool, simplifying access to information) and transform it into a **demonstrable, working prototype (MVP)** through *vibe coding* assisted by **Antigravity**.
+The goal of this BuildAthon is to take a **real-world challenge from organizations and the workplace** (automating a repetitive task, streamlining a workflow, enhancing employee experience, creating an internal tool, simplifying access to information) and transform it into a **demonstrable, working prototype (MVP)** through AI-assisted *vibe coding*, with **Antigravity** or **Claude Code**.
 
 This starter kit is specifically designed to let you build your solution even if you have never coded in TypeScript or set up a database before.
 
@@ -12,48 +12,37 @@ This starter kit is specifically designed to let you build your solution even if
 
 ---
 
-## 🎯 How to Get Started? Two Simple Options
+## ✅ Prerequisites
 
-### Option 1: Directly in Antigravity Desktop (ZERO Command Line) 🌟
-*The easiest and recommended method for beginners!*
-
-1. Open the **Antigravity Desktop** application.
-2. In the left-hand sidebar, click **Projects**, then select **“New Project”** (or the **`+`** icon) to create a dedicated workspace for your BuildAthon project.
-3. Name your project or choose a destination folder on your computer.
-4. Make sure the mode/model selector is set to **“Auto”** (located at the bottom of the chat panel) so Antigravity can autonomously orchestrate development and select the optimal model.
-5. Inside this dedicated project session, send this prompt in the chat:
-   > *“Clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter here and set up my environment for the BuildAthon. Then read GEMINI.md and follow its instructions.”*
-   
-   > 🛡️ **Antigravity Permissions**: When prompted for `git clone` or `npm install`, select **“Yes, and always allow [command]”** to work without interruptions. For file deletions (such as `rm -rf`), choose **“Allow this time”** as a safety precaution.
-
-6. Antigravity will automatically clone the template into your dedicated folder and install dependencies (`npm install`).
-7. Share your project idea in the chat, and Antigravity will take care of building the application for you!
-
-*(Note: If you already cloned the repository previously, simply click on **Projects** and select your existing folder).*
+Whichever tool you choose, install these two free programs (follow the instructions on each page):
+- **Node.js** (LTS version): 👉 [nodejs.org/en/download](https://nodejs.org/en/download)
+- **Git**: 👉 [git-scm.com/downloads](https://git-scm.com/downloads)
 
 ---
 
-### Option 2: Via Terminal (Command Line)
-If you prefer using your standard terminal:
-```bash
-git clone https://github.com/ctrlwebinc/wtmmtl-buildathon-starter
-cd wtmmtl-buildathon-starter
-npm install
-agy
-```
+## 🎯 How to Get Started? Choose Your AI Copilot
+
+| | Tool | Who is it for? | Setup guide |
+| :---: | :--- | :--- | :--- |
+| 🪐 | **Antigravity** (Google) | Google account (free tier available) | 👉 **[Get started with Antigravity](./docs/ANTIGRAVITY_SETUP.md)** |
+| ✳️ | **Claude Code** (Anthropic) | Claude Pro, Max, Team or Enterprise subscription | 👉 **[Get started with Claude Code](./docs/CLAUDE_CODE_SETUP.md)** |
+
+Each guide explains how to **install the tool**, then how to **start your project** (with or without the command line). The template works the same way with both: same architecture rules, same commands, same guidance.
+
+> 📖 **Before you dive in**, take 5 minutes to read the **[Vibe Coding Guide](./VIBE_CODING_GUIDE.md)**: it will help you phrase your requests well and get the most out of your AI copilot.
 
 ---
 
 ## 💻 View Your App Live
 
-Once Antigravity has generated your project, start the local server:
+Once your AI copilot has generated your project, start the local server:
 ```bash
 npm run dev
 ```
 Then open your browser to:
 👉 **[http://localhost:3000](http://localhost:3000)**
 
-Every time you ask Antigravity to add a feature (e.g. a vote button, search bar, new form), it updates the web interface so you can test it live!
+Every time you ask your AI copilot to add a feature (e.g. a vote button, search bar, new form), it updates the web interface so you can test it live!
 
 ---
 

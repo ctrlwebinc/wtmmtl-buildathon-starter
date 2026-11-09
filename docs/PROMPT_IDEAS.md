@@ -4,12 +4,12 @@
 
 The **BuildAthon** is focused on creating practical solutions for organizations and the workplace: automating repetitive tasks, streamlining workflows, improving employee experience, designing internal tools, or simplifying access to information.
 
-Here are prompt templates you can copy, customize, and paste directly into Antigravity to jumpstart your project:
+Here are prompt templates you can copy, customize, and paste directly into your AI copilot (Antigravity or Claude Code) to jumpstart your project:
 
 ---
 
 ### Option A: Employee Onboarding & Mentorship Hub (Employee Experience)
-> *“Hello Antigravity! For the BuildAthon, I want to build an internal tool to streamline onboarding for new hires in an organization.*
+> *“Hello! For the BuildAthon, I want to build an internal tool to streamline onboarding for new hires in an organization.*
 > 
 > *For the MVP:*
 > *1. A clean dashboard with an interactive onboarding checklist (HR forms, IT equipment, team intros).*
@@ -21,7 +21,7 @@ Here are prompt templates you can copy, customize, and paste directly into Antig
 ---
 
 ### Option B: Internal Request & Workflow Automation Hub (Workflow Streamlining)
-> *“Hi Antigravity! My BuildAthon project is an internal hub to centralize and prioritize cross-department requests (HR, IT, Operations).*
+> *“Hi! My BuildAthon project is an internal hub to centralize and prioritize cross-department requests (HR, IT, Operations).*
 > 
 > *Key features:*
 > *1. A simple submission form (title, department, priority level).*
@@ -33,7 +33,7 @@ Here are prompt templates you can copy, customize, and paste directly into Antig
 ---
 
 ### Option C: Team Knowledge Base & Quick Information Portal (Access to Information)
-> *“Hey Antigravity! I want to create an internal knowledge portal that makes team policies, documentation, and best practices easy to find.*
+> *“Hey! I want to create an internal knowledge portal that makes team policies, documentation, and best practices easy to find.*
 > 
 > *What we need:*
 > *1. Browse knowledge cards organized by category (e.g. Remote Work, Security, Procurement).*

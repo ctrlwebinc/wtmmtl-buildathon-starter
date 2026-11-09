@@ -2,7 +2,7 @@
 
 *(Pour la version française, consultez [GUIDE_DU_VIBE_CODER.md](./GUIDE_DU_VIBE_CODER.md))*
 
-**Vibe Coding** is the art of building software by directing advanced AI like Antigravity, while staying 100% focused on **workplace needs, user experience, and delivered value**, rather than boilerplate syntax and low-level technical plumbing.
+**Vibe Coding** is the art of building software by directing advanced AI like Antigravity or Claude Code, while staying 100% focused on **workplace needs, user experience, and delivered value**, rather than boilerplate syntax and low-level technical plumbing.
 
 Here are essential tips to make your BuildAthon journey smooth and successful.
 
@@ -23,16 +23,16 @@ Don't ask for your entire application at once. Build your project like a Lego se
 
 ---
 
-## 2. Leverage Antigravity's Super-Commands 🪄
+## 2. Leverage the Super-Commands 🪄
 
-Antigravity comes with built-in commands to help structure your thought process:
+The template provides commands, available in both Antigravity and Claude Code, to help structure your thought process:
 
 * **`/grill-me`** (Highly recommended when starting out!):
-  Type `/grill-me` followed by your idea. Antigravity will interview you with 3 or 4 sharp questions to clarify what you really need before touching code.
+  Type `/grill-me` followed by your idea. Your AI copilot will interview you with 3 or 4 sharp questions to clarify what you really need before touching code.
   *Example:* `/grill-me I want to build an app helping female entrepreneurs in Montreal.`
 
 * **`/plan`** :
-  Ask Antigravity to outline a step-by-step implementation plan before coding. Great for aligning on direction.
+  Ask your AI copilot to outline a step-by-step implementation plan before coding. Great for aligning on direction.
 
 ---
 
@@ -40,23 +40,23 @@ Antigravity comes with built-in commands to help structure your thought process:
 
 If something doesn't display properly or an error shows up in your terminal:
 1. **Don't panic!** This is completely normal.
-2. Simply copy the error message or describe the issue to Antigravity:
+2. Simply copy the error message or describe the issue to your AI copilot:
    > *“When I click the 'Submit' button, nothing happens and I see a 500 error in the console. Can you check and fix it?”*
-3. Antigravity will inspect the code, fix the root cause, run tests (`npm test`), and get your app back in working shape.
+3. It will inspect the code, fix the root cause, run tests (`npm test`), and get your app back in working shape.
 
 ---
 
-## 4. Antigravity System Permissions: How to Choose? 🛡️
+## 4. System Permissions: How to Choose? 🛡️
 
-To keep your computer secure, Antigravity will occasionally ask you to approve terminal commands. Here is the golden rule to guide your choices:
+To keep your computer secure, your AI copilot will occasionally ask you to approve terminal commands. Here is the golden rule to guide your choices:
 
 ### 🟢 1. Constructive commands (`git clone`, `npm install`, `npm test`, `tsx`)
-* 👉 **Choose: “Yes, and always allow [command]”** (or *Always allow*).
-* **Why?** These are routine, constructive operations (downloading the template, installing libraries, running tests). Approving them permanently allows Antigravity to work autonomously without interrupting you every 30 seconds for standard steps.
+* 👉 **Choose the permanent approval**: **“Yes, and always allow [command]”** in Antigravity, **“Yes, and don't ask again”** in Claude Code.
+* **Why?** These are routine, constructive operations (downloading the template, installing libraries, running tests). Approving them permanently allows your AI copilot to work autonomously without interrupting you every 30 seconds for standard steps.
 
 ### ⚠️ 2. Destructive commands (`rm -rf`, deletions, database resets)
-* 👉 **Choose: “Allow this time”** (Allow once).
-* **Why?** Commands like `rm -rf test_dir` permanently delete files or directories. Even when Antigravity has a valid reason (e.g. cleaning up temporary test folders), **never grant permanent allow for `rm`**. Approving on a one-off basis keeps you in control and avoids accidental data loss.
+* 👉 **Allow once**: **“Allow this time”** in Antigravity, **“Yes”** in Claude Code.
+* **Why?** Commands like `rm -rf test_dir` permanently delete files or directories. Even when the AI has a valid reason (e.g. cleaning up temporary test folders), **never grant permanent allow for `rm`**. Approving on a one-off basis keeps you in control and avoids accidental data loss.
 
 ---
 
@@ -74,7 +74,7 @@ To keep your computer secure, Antigravity will occasionally ask you to approve t
 
 ## 6. Security Check Before the Final Pitch 🛡️
 
-Before demoing your prototype to the BuildAthon judges and mentors, ask Antigravity for a security review:
-> *“Antigravity, please do a security review of my app!”*
+Before demoing your prototype to the BuildAthon judges and mentors, ask your AI copilot for a security review (in Claude Code, you can also type `/security-audit`):
+> *“Please do a security review of my app!”*
 
-Antigravity will scan your entire codebase (SQL injection safety, XSS protection in the frontend, Zod input validation) and produce an easy-to-read **traffic-light report** (🟢 / 🟡 / 🔴) with automatic fixes if needed. It's a fantastic bonus to show off during your presentation!
+It will scan your entire codebase (SQL injection safety, XSS protection in the frontend, Zod input validation) and produce an easy-to-read **traffic-light report** (🟢 / 🟡 / 🔴) with automatic fixes if needed. It's a fantastic bonus to show off during your presentation!

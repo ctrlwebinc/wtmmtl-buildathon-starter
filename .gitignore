@@ -13,6 +13,9 @@ data/*.db-shm
 .env
 .env.local
 
+# Réglages locaux de Claude Code (autorisations personnelles)
+.claude/settings.local.json
+
 # Logs
 *.log
 npm-debug.log*
